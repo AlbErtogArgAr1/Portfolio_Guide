@@ -4,5 +4,5 @@
 
 ### SQL Projects: [Cyber-Salary-Project](https://github.com/AlbErtogArgAr1/SQL_cyber_salary_project/blob/main/README.md)
 ### Python Projects
-### Tableau Projects 
+### Tableau Projects: [Customer-Churn-Project](https://github.com/AlbErtogArgAr1/Tableau_Project_Customer_churn)
  
